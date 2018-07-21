@@ -17,5 +17,5 @@ For ubuntu, `python3-tkinter` needs to be installed.
 ## Maintainers
 * Abhinav Khare (@CosmicCoder96)
 * Vipul Kumar
-* Rohan Rayreddy
+* Rohan Rayaraddi
 
